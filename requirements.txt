@@ -1,0 +1,11 @@
+Flask==0.10
+Flask-Cors==1.2.1
+Jinja2==2.7.2
+Werkzeug==0.9.4
+boto==2.27.0
+decorator==3.3.2
+gunicorn==18.0
+pymongo==2.6.3
+simplejson==2.3.2
+virtualenv==1.7.1.2
+wsgiref==0.1.2
